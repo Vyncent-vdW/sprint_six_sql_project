@@ -60,3 +60,5 @@ Feel free to fork this repo and improve it. If you’ve got enhancements (e.g., 
 TripleTen Taxi Cab dataset source: 
 
 - https://practicum-content.s3.us-west-1.amazonaws.com/learning-materials/data-analyst-eng/moved_project_sql_result_01.csv
+- https://practicum-content.s3.us-west-1.amazonaws.com/learning-materials/data-analyst-eng/moved_project_sql_result_04.csv 
+- https://practicum-content.s3.us-west-1.amazonaws.com/learning-materials/data-analyst-eng/moved_project_sql_result_07.csv
