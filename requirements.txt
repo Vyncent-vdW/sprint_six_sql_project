@@ -1,0 +1,6 @@
+This Jupyter Notebook (`sprint_six_sql_nb.ipynb`) utilizes the following Python modules:
+
+matplotlib == 3.10.0
+pandas == 2.2.3
+scipy == 1.11.3
+seaborn == 0.13.2
