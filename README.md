@@ -21,6 +21,16 @@ Key observations include:
 
 This analysis provided insights into trip patterns and helped identify areas with higher demand or longer travel times. 
 
+![alt text](image-1.png) 
+
+This graph was used to test the hypothesis that weather conditions in Chicago impact ride share travel times between The Loop and O'Hare International Airport.
+
+Key findings:
+- On bad weather days, even the shortest trips take longer than those on good weather days.
+- The interquartile range for trip durations is generally higher on bad weather days, indicating greater variability.
+- The mean trip duration on bad weather days is approximately equal to the upper quartile (75th percentile) of good weather days.
+- There are six outliers on good weather days, compared to only one on bad weather days.
+
 ## 📦 Installation
 
 ```bash
