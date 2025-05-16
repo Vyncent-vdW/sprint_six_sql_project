@@ -5,7 +5,20 @@ This project focuses on analyzing subscriber behavior using SQL queries. The goa
 - **Data Extraction**: Querying and retrieving subscriber data from the database.
 - **Data Cleaning**: Using SQL to clean and preprocess data for analysis.
 - **Exploratory Data Analysis (EDA)**: Identifying trends, patterns, and correlations directly through SQL queries.
-- **Insights Generation**: Extracting actionable insights to reduce churn and improve customer retention.
+- **Insights Generation**: Extracting actionable insights to reduce churn and improve customer retention. 
+
+## 📊 Visuals
+
+This project includes visualizations generated from SQL query results to help interpret subscriber behavior and trends. Visuals such as charts and graphs are created using Python libraries (e.g., matplotlib, seaborn) within the Jupyter Notebook to support data-driven insights and recommendations. 
+
+![alt text](image.png) 
+In this section, I analyzed the top 10 neighborhoods for drop-offs and observed a staggered pattern in trip durations. The Loop and River North emerged as the neighborhoods with the longest average trip durations, significantly outpacing other locations. To better understand this trend, I visualized the data using bar plots and converted trip durations from seconds to minutes for easier interpretation.
+
+Key observations include:
+- The Loop and River North have the longest average trip durations, with noticeable gaps between them and other neighborhoods.
+- The data revealed distinct breaks in trip durations, highlighting clusters of neighborhoods with similar trip lengths.
+
+This analysis provided insights into trip patterns and helped identify areas with higher demand or longer travel times. 
 
 ## 📦 Installation
 
@@ -61,4 +74,4 @@ TripleTen Taxi Cab dataset source:
 
 - https://practicum-content.s3.us-west-1.amazonaws.com/learning-materials/data-analyst-eng/moved_project_sql_result_01.csv
 - https://practicum-content.s3.us-west-1.amazonaws.com/learning-materials/data-analyst-eng/moved_project_sql_result_04.csv 
-- https://practicum-content.s3.us-west-1.amazonaws.com/learning-materials/data-analyst-eng/moved_project_sql_result_07.csv
+- https://practicum-content.s3.us-west-1.amazonaws.com/learning-materials/data-analyst-eng/moved_project_sql_result_07.csv-
