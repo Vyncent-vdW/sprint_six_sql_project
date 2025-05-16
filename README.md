@@ -12,6 +12,7 @@ This project focuses on analyzing subscriber behavior using SQL queries. The goa
 This project includes visualizations generated from SQL query results to help interpret subscriber behavior and trends. Visuals such as charts and graphs are created using Python libraries (e.g., matplotlib, seaborn) within the Jupyter Notebook to support data-driven insights and recommendations. 
 
 ![alt text](image.png) 
+
 In this section, I analyzed the top 10 neighborhoods for drop-offs and observed a staggered pattern in trip durations. The Loop and River North emerged as the neighborhoods with the longest average trip durations, significantly outpacing other locations. To better understand this trend, I visualized the data using bar plots and converted trip durations from seconds to minutes for easier interpretation.
 
 Key observations include:
