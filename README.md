@@ -1,4 +1,4 @@
-# 📘 Megaline Subscriber Behavior Analysis with SQL
+# 📘 Weather Impact On Ride Duration
 This project focuses on analyzing subscriber behavior using SQL queries. The goal is to extract insights from the dataset, support strategic decision-making in the telecom sector, and optimize marketing efforts.
 
 ## 🚀 Features
